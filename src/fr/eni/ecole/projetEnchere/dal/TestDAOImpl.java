@@ -7,6 +7,7 @@ public class TestDAOImpl {
 			System.out.println("init test DAO");
 			//modification dev2
 			//modification en conflit
+			//modification
 			
 		}
 }
